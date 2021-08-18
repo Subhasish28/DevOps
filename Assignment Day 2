@@ -1,0 +1,19 @@
+DevOps Essentials
+Assignment 2
+Working with docker
+1.Create an AWS EC2 instance
+2.sudo yum update
+3.sudo yum install docker
+4.docker
+5.docker --version
+6.service docker start
+7.service docker stop
+8.service docker status
+9.docker run hello-world
+10.docker run -it ubuntu bash
+11.Working with volumes
+docker volume create
+docker volume inspect
+docker volume rm volid
+docker volume ls
+service docker stop
